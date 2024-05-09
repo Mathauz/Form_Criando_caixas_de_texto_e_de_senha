@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* <form action="cadastro.php" method="post" autocomplete="on"> - 
+
+autocomplete="on" siginifica que ele vai completar o formulário se os dados já estiveram salvos no computador. 
+
+*/
+
+/* <input type="text" name="usu" id="iusu" required placeholder="Usuário"> - 
+required - required siginifca que é obrigatório colocar as informaçoes para o envio do formulário, senão, ele não aceita, colocar em cada campo input.
+
+placeholder="Usuário" - placeholder sifinifica que mostra o nome de cada input dentro da caixa de formulurário, neste caso pedi pra mostrar a palavra usuário, dentro da caixa usuário como o id iusu.
+*/
+
+/*
+<input type="reset" value="Limpar"> -
+
+- input type="reset" siginifca o botão de limpar os dados do formulário.
